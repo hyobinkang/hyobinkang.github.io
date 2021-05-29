@@ -256,7 +256,6 @@ compress_html:
 
 
 # Defaults
-defaults:
   layout: single
   author_profile: true	
   read_time: true	  
