@@ -258,11 +258,11 @@ compress_html:
 # Defaults
 defaults:
   layout: single
-  author_profile: true	      author_profile: true
-  read_time: true	      read_time: true
-  comments: # true	      comments: # 블로그 댓글 기능 true
-  share: true	      share: true
-  related: true	      related: true
+  author_profile: true	
+  read_time: true	  
+  comments: # 블로그 댓글 기능 true	    
+  share: true	      
+  related: true	   
 
   # _pages
   - scope:
