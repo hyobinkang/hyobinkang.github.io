@@ -24,7 +24,7 @@ description              : "Computer Engineering Students"
 url                      : "https://hyobinkang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/IMG_0534.jpg"
+teaser                   : "/assets/images/IMG_0534.jpeg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -76,7 +76,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/IMG_0534.jpg"
+og_image                 : "/assets/images/IMG_0534.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyobin Kang"
-  avatar           : "/assets/images/IMG_0534.jpg"
+  avatar           : "/assets/images/IMG_0534.jpeg"
   bio              : "Computer Engineering Students"
   location         : "South Korea"
   email            :
@@ -196,7 +196,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
