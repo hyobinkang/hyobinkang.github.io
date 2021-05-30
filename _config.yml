@@ -262,12 +262,12 @@ defaults:
       path: ""
       type: posts
     values:
-  layout: single
-  author_profile: true	
-  read_time: true	  
-  comments: # 블로그 댓글 기능 true	    
-  share: true	      
-  related: true	   
+      layout: single
+      author_profile: true	
+      read_time: true	  
+      comments: # 블로그 댓글 기능 true	    
+      share: true	      
+      related: true	   
 
   # _pages
   - scope:
