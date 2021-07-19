@@ -1,9 +1,0 @@
----
-title: "About Blog"
-permalink: /about/
-layout: single
----
-
-## hyobinkang.github.io 블로그
-
-이 블로그는 스터디를 기록하는 블로그이다.
